@@ -64,7 +64,7 @@ module.exports = (options = {}) => ({
       start_url: './index.html',
       theme_color: '#3f51b5',
       background_color: '#3f51b5',
-      orientation: 'landscape-primary',
+      orientation: 'portrait-primary',
       display: 'standalone',
       icons: [
         {
